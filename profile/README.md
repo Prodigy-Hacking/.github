@@ -8,6 +8,9 @@
 	</a>
 </h1>
 
+## Shutdown Notice
+
+As of April 10th, 2022, we no longer support hacks.
 
   
 		
