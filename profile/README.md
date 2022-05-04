@@ -18,7 +18,7 @@ As of April 10th, 2022, we no longer support hacks.
 	<strong>
 		<a href="https://prodigyhacking.com/">Website</a>
 		•
-		<a href="https://discord.gg/XQDfbfq">Discord</a>
+		<a href="https://discord.gg/scNS7YgB8w">Discord</a>
 		•
 		<a href="https://github.com/Prodigy-Hacking/ProdigyMathGameHacking/wiki/How-to-install-hacks">Installation</a>
 		•
